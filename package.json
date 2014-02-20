@@ -1,8 +1,10 @@
 {
-	"name": "style-canvas",
-	"private": true,
-	"version": "0.0.1",
-	"devDependencies": {
-		"mocha": "*"
-	}
+  "name": "swatinem-style-canvas",
+  "description": "Use CSS to style canvas paths",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "Swatinem-style": "git://github.com/npmcomponent/Swatinem-style.git"
+  },
+  "license": "GPLv3"
 }

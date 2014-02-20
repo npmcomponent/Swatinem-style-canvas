@@ -1,4 +1,4 @@
-var style = require('style');
+var style = require('Swatinem-style');
 
 module.exports = styleCanvas;
 
